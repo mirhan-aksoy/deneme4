@@ -4,6 +4,7 @@ public class Deneme2 {
         System.out.println(" dünya");
         System.out.println("merhaba dünya");
         //mirhan branch
+        // main yorum
 
     }
 }
